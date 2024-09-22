@@ -19,7 +19,7 @@
 - https://ahmadaw34.github.io/Simon/
 
 ## Usage
-1. Click the "Start" button to begin the game.
+1. Press A Key to Start (or touch the screen for Smartphones).
 2. Follow the sequence of colors as they light up.
 3. Tap the buttons in the same order to repeat the sequence.
 4. Continue until you make a mistake; the game will then end.
