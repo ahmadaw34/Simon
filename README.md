@@ -15,6 +15,9 @@
 - JavaScript
 - jQuery
 
+## Demo
+- https://ahmadaw34.github.io/Simon/
+
 ## Usage
 1. Click the "Start" button to begin the game.
 2. Follow the sequence of colors as they light up.
