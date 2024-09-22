@@ -1,21 +1,22 @@
-#Simon
-Overview
-Simon Game is a classic memory game that challenges players to remember and repeat sequences of colors and sounds. The game is designed to improve memory and concentration skills while providing an engaging and fun experience.
+# Simon Game
 
-Features
-Interactive Gameplay: Players can tap colored buttons to replicate sequences.
-Increasing Difficulty: The game progressively increases the complexity of the sequences.
-Sound Effects: Unique sounds for each color enhance gameplay.
-Responsive Design: Playable on both desktop and mobile devices.
+## Overview
+**Simon Game** is a classic memory game that challenges players to remember and repeat sequences of colors and sounds. The game is designed to improve memory and concentration skills while providing an engaging and fun experience.
 
-Technologies Used
-HTML5
-CSS3
-JavaScript
-jQuery
+## Features
+- **Interactive Gameplay**: Players can tap colored buttons to replicate sequences.
+- **Increasing Difficulty**: The game progressively increases the complexity of the sequences.
+- **Sound Effects**: Unique sounds for each color enhance gameplay.
+- **Responsive Design**: Playable on both desktop and mobile devices.
 
-Usage
-Press A Key to Start (or touch the screen for Smartphones)
-Follow the sequence of colors as they light up.
-Tap the buttons in the same order to repeat the sequence.
-Continue until you make a mistake; the game will then end.
+## Technologies Used
+- HTML5
+- CSS3
+- JavaScript
+- jQuery
+
+## Usage
+1. Click the "Start" button to begin the game.
+2. Follow the sequence of colors as they light up.
+3. Tap the buttons in the same order to repeat the sequence.
+4. Continue until you make a mistake; the game will then end.
